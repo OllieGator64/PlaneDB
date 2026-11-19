@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="BetterComboboxes/BetterComboboxes.vbproj" Id="5eb1c9ff-6fe9-456f-b19e-191810271441">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>
